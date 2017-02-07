@@ -1,2 +1,2 @@
-# Cube-Texture
-Rotating Cube by html,javascript,webgl-texture
+# sphere-webgl
+sphere can be consisting of dividing triangle sides
